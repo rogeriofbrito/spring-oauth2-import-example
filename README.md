@@ -1,0 +1,2 @@
+### Information
+Related to medium article [https://medium.com/@rogeriofbrito/how-to-add-spring-security-outh2-in-your-project-without-default-auto-configuration-9ef4b5d3fbb9](https://medium.com/@rogeriofbrito/how-to-add-spring-security-outh2-in-your-project-without-default-auto-configuration-9ef4b5d3fbb9)
